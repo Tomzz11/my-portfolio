@@ -127,7 +127,7 @@ const bootcampCertificates = [
     description:
       "Bootcamp certificate covering software development fundamentals, collaborative project work, Git workflow, and hands-on MERN stack practice.",
     badge: "JSD",
-    filePath: "/certificates/bootcamp/cert_jsd_25_tom.pdf",
+    filePath: "/certificates/bootcamp/cert_jsd_25_nuttanon.pdf",
   },
 ];
   
