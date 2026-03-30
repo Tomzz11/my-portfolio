@@ -920,4 +920,3 @@ export default function PortfolioReactApp() {
     </div>
   );
 }
-
