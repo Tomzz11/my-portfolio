@@ -196,8 +196,8 @@ const contactInfo = {
   phone: "065-169-3945",
   githubLabel: "https://github.com/Tomzz11",
   githubUrl: "https://github.com/Tomzz11",
-  linkedinLabel: "https://www.linkedin.com/in/nuttanon-pakawinyu-3b95b23bb/",
-  linkedinUrl: "https://www.linkedin.com/in/nuttanon-pakawinyu-3b95b23bb/",  
+  linkedinLabel: "https://www.linkedin.com/in/nuttanon-p",
+  linkedinUrl: "https://www.linkedin.com/in/nuttanon-p",  
 };
 
 const fadeUp = {
