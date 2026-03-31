@@ -499,10 +499,8 @@ export default function PortfolioReactApp() {
 
                 <div className="mt-5 space-y-4 text-slate-300 leading-7">
                   <p>
-                    I am a backend-focused developer who transitioned from more
-                    than 7 years in freight forwarding into software
-                    development. My portfolio is meant to show practical
-                    software thinking, not only screens or UI.
+                    I am a backend-focused developer transitioning into software development after 6+ years in logistics and freight forwarding. 
+                    My portfolio highlights practical software thinking, not just screens or UI.
                   </p>
                   <p>
                     I especially like projects where I can explain the logic
